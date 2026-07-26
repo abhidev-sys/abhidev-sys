@@ -301,12 +301,200 @@ Production Mode     🟢 ENABLED
 
 Mission             🚀 BUILDING AI
 ```
+<!-- ======================================================== -->
+<!--                  ⚡ AI TECH GALAXY                       -->
+<!-- ======================================================== -->
+
+<div align="center">
+
+# ⚡ AI Tech Galaxy
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=800&lines=Loading+Technology+Universe...;Initializing+AI+Stack...;Production+Environment+Ready..."/>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A11CB,100:2575FC&section=footer"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,postgres,fastapi,flask,docker,git,github,vscode,linux&perline=11"/>
 
 </div>
+
+---
+
+# 🌌 AI & LLM Universe
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/OpenAI_API-8A2BE2?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/LangChain-6A5ACD?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-7B68EE?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Pinecone-8A2BE2?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/RAG_Pipelines-7B68EE?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/MCP-7B68EE?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🤖 AI Agent Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenAI_Agents_SDK-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SmolAgents-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Function_Calling-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Tool_Calling-4169E1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agent_Workflows-8A2BE2?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🛰 AI Core
+
+<div align="center">
+
+```text
+
+               OpenAI
+                  ▲
+                  │
+        LangGraph │ LangChain
+
+             \    │    /
+
+               🤖 AI
+
+            /    │    \
+
+     FastAPI     │     Python
+
+          Docker │ PostgreSQL
+
+                 GitHub
+
+```
+
+</div>
+
+---
+
+# 📊 Development Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,git,github,vscode,linux,postgres,cpp,c"/>
+
+</div>
+
+---
+
+# 📈 Skill Loading
+
+```text
+
+Python
+
+██████████████████████████████ 100%
+
+C++
+
+██████████████████████████░░░ 90%
+
+Generative AI
+
+██████████████████████████████ 100%
+
+LangChain
+
+█████████████████████████░░░░ 90%
+
+LangGraph
+
+████████████████████████░░░░░ 85%
+
+OpenAI API
+
+██████████████████████████████ 100%
+
+AI Agents
+
+█████████████████████████░░░░ 92%
+
+FastAPI
+
+████████████████████████░░░░░ 85%
+
+PostgreSQL
+
+██████████████████░░░░░░░░░░░ 65%
+
+Docker
+
+████████████████████░░░░░░░░░ 75%
+
+```
+
+---
+
+
 
