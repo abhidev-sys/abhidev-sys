@@ -24,28 +24,6 @@
 
 ## ⚡ Initializing AI Core...
 
-```text
-██████████████████████████████████████ 100%
-
-✔ Python Engine Loaded
-
-✔ OpenAI Connected
-
-✔ LangChain Ready
-
-✔ LangGraph Running
-
-✔ Multi-Agent System Online
-
-✔ MCP Connected
-
-✔ Retrieval Pipeline Active
-
-✔ Production Mode Enabled
-
-STATUS : 🟢 ONLINE
-```
-
 
 ---
 
@@ -137,46 +115,8 @@ Status:
 
 ---
 
-# 🛰 AI OPERATING SYSTEM
 
 <div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║            🤖 AI COMMAND CENTER                          ║
-║                                                          ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  CPU Usage             ██████████████░░░░  82%           ║
-║                                                          ║
-║  Memory                █████████████░░░░░  74%           ║
-║                                                          ║
-║  AI Reasoning          ██████████████████ 100%           ║
-║                                                          ║
-║  LangGraph             ██████████████████ 100%           ║
-║                                                          ║
-║  OpenAI                ██████████████████ 100%           ║
-║                                                          ║
-║  MCP                   ██████████████░░░░  80%           ║
-║                                                          ║
-║  Agent Runtime         █████████████████░  96%           ║
-║                                                          ║
-║  Deployment            ████████████░░░░░░  70%           ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# 💻 AI TERMINAL
-
-```bash
-PS C:\Users\Abhishek>
-
-> boot()
 
 Loading AI Core....
 
