@@ -76,45 +76,6 @@ Building scalable AI software that solves real-world problems.
 <tr>
 <td width="65%">
 
-### 👨‍💻 WHO AM I?
-
-```yaml
-Name: Abhishek Vishwakarma
-
-Role: AI Application Engineer
-
-Education:
-  College: Baderia Global Institute
-  Year: 3rd Year
-
-Specialization:
-  - Generative AI
-  - AI Agents
-  - Multi-Agent Systems
-  - RAG Pipelines
-  - LangGraph
-  - Prompt Engineering
-
-Current Mission:
-  Building Production-Ready AI Applications
-
-Status:
-  🟢 Available for AI Projects
-```
-
-</td>
-
-<td>
-
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="250"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
 
 <div align="center">
 
